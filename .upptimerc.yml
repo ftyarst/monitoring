@@ -11,10 +11,9 @@ sites:
       - 404
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /monitoring
+  robotsText: "User-agent: * \n Disallow: /"
   faviconSvg: https://fatya.netlify.app/favicon.ico
   logoUrl: https://fatya.netlify.app/favicon.ico
   name: Monitoring
