@@ -14,7 +14,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /monitoring
   robotsText: "User-agent: * \n Disallow: /"
-  favicon: https://fatya.netlify.app/favicon.ico
+  faviconSvg: https://fatya.netlify.app/favicon.ico
   logoUrl: https://fatya.netlify.app/favicon.ico
   name: Monitoring
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
