@@ -13,7 +13,7 @@ sites:
 status-website:
   # cname: demo.upptime.js.org
   baseUrl: /monitoring
-  robotsText: "User-agent: * \n Allow: / \n Sitemap: https://ftyarst.github.io/monitoring/sitemap.xml"
+  robotsText: "User-agent: * \n Allow: /"
   faviconSvg: https://fatya.netlify.app/favicon.ico
   logoUrl: https://fatya.netlify.app/favicon.ico
   name: Monitoring
